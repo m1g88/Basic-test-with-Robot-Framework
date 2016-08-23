@@ -1,16 +1,22 @@
 # Basic test with Robot Framework
 
-## install **Robot Framework**
+## Prerequisite
+* Python 2.xx
+* Pip
+* Firefox 
+
+
+### install **Robot Framework**
 ```
 pip install robotframework-selenium2library
 ```
 
-## run **Robot**
+### run **Robot**
 
 ```
 robot test.robot 
 ```
-## or
+### or
 ```
 pybot test.robot
 ```
